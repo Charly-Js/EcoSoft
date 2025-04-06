@@ -159,3 +159,15 @@ EcoSoft implementa un sistema de roles para gestionar los permisos:
    ```bash
    git clone https://github.com/tu-usuario/ecosoft.git
    cd ecosoft
+
+#### Credenciales por Defecto
+
+-El sistema incluye dos usuarios predeterminados para pruebas:
+
+- Usuario Administrador:
+- Email: admin@ecosoft.com
+- Contraseña: Admin@123456!
+
+- Usuario Regular:
+- Email: usuario@ecosoft.com
+- Contraseña: Usuario@123456!
